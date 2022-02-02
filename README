@@ -1,0 +1,8 @@
+gpu-memory-allocator
+====================
+
+Small utility for eating VRAM.
+
+Build with `make`.
+
+Run with `./gpu-memory-allocator -m 100` to allocate 100MiB of VRAM.
